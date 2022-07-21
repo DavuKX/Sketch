@@ -11,6 +11,9 @@
     height: 550px;
     max-width: 700px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 16em;
 }
 
 #configs {
@@ -24,3 +27,4 @@
     padding: 10px;
     margin: 10px;
 }
+
