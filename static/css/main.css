@@ -26,3 +26,34 @@
     margin: 10px;
 }
 
+#grid-config {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    height: fit-content;
+    margin: 10px;
+}
+
+#rgb-button {
+    display: flex;
+    align-items: center;
+}
+
+#color-config {
+    display: flex;
+    align-items: center;
+}
+
+#reset {
+    display: flex;
+    align-items: center;
+}
+
+#color-picker {
+    width: 60px;
+    height: 30px;
+    border: 0;
+}
